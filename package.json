@@ -1,17 +1,17 @@
 {
-  "name": "cors-now",
+  "name": "Cors-Now",
   "private": true,
   "version": "1.0.0",
-  "description": "reverse proxy with CORS headers.",
+  "description": "Reverse Proxy With CORS Headers.",
   "license": "MIT",
-  "repository": "hemanth/cors-now",
+  "repository": "zakaria-zahidi/Cors-Now",
   "author": {
-    "name": "Hemanth.HM",
-    "email": "hemanth.hm@gmail.com",
-    "url": "h3manth.com"
+    "name": "Zakaria Zahidi",
+    "email": "zakariazahidi1@gmail.com",
+    "url": "Tlfaz.com"
   },
   "engines": {
-    "node": "^6.0.0"
+    "node": "^22.x"
   },
   "scripts": {
     "start": "micro index.js",
